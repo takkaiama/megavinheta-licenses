@@ -1,0 +1,7 @@
+{
+  "schema": "megavinheta-repo/v1",
+  "app": "MegaVinheta Studio",
+  "version": "4.0.0",
+  "license_directory": "licenses",
+  "public_key_fingerprint_sha256": "d75c194d975c5e7af4c22ddd72f69edcf2663bf70d075a585fdf2911a3bab854"
+}

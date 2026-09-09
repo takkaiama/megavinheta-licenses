@@ -1,0 +1,7 @@
+NUNCA ENVIE PARA ESTE REPOSITORIO:
+- private.pem
+- token do GitHub (PAT)
+- senha do administrador
+- backups da pasta %APPDATA%\MegaVinheta Studio\security
+
+O repositorio deve conter apenas os arquivos desta pasta e as licencas geradas pelo painel Admin.
