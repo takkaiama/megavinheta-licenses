@@ -7,12 +7,12 @@
     "salt": "3da641af9ea1fe90394e4af7ef3f565b",
     "hash": "3d28fa5f7205f3910adf43b0a2b356f7f9639b6c725bf11d3046af16fe432ada9c74578eff6d131b1f9b3b67cb13b070c47fd537f9c822fcd1743865e008027b"
   },
-  "status": "active",
+  "status": "revoked",
   "starts_at": "2026-09-09T01:37:00.000Z",
   "expires_at": "2026-10-09T02:37:00.000Z",
   "created_at": "2026-09-09T01:40:32.776Z",
-  "updated_at": "2026-09-09T01:40:32.776Z",
+  "updated_at": "2026-09-09T02:45:57.676Z",
   "device_hash": null,
   "note": "",
-  "signature": "h5YScf0lAQI1XBg99i0Eg+XTm+Wf3ZWbLD5YpihmfIicJwOLuGfTwpPZW7JBf05RGnoLD6DS+XEtp9rhCSjvAQ=="
+  "signature": "OUgLE3pKrJwIKe2vf0y8CNNoah+n4ZWidoPDvVl4I7nQNgCtxzSHO+aemQ7CXcqSWJ9pZ6EcqRflkm2LuueCCw=="
 }
