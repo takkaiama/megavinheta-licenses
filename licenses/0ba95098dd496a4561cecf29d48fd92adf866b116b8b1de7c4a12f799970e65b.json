@@ -1,0 +1,18 @@
+{
+  "schema": "megavinheta-license/v1",
+  "license_id": "MV-DC8F207C70DA91DF",
+  "user_hash": "0ba95098dd496a4561cecf29d48fd92adf866b116b8b1de7c4a12f799970e65b",
+  "password": {
+    "kdf": "scrypt-v1",
+    "salt": "3da641af9ea1fe90394e4af7ef3f565b",
+    "hash": "3d28fa5f7205f3910adf43b0a2b356f7f9639b6c725bf11d3046af16fe432ada9c74578eff6d131b1f9b3b67cb13b070c47fd537f9c822fcd1743865e008027b"
+  },
+  "status": "active",
+  "starts_at": "2026-09-09T01:37:00.000Z",
+  "expires_at": "2026-10-09T02:37:00.000Z",
+  "created_at": "2026-09-09T01:40:32.776Z",
+  "updated_at": "2026-09-09T01:40:32.776Z",
+  "device_hash": null,
+  "note": "",
+  "signature": "h5YScf0lAQI1XBg99i0Eg+XTm+Wf3ZWbLD5YpihmfIicJwOLuGfTwpPZW7JBf05RGnoLD6DS+XEtp9rhCSjvAQ=="
+}
